@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','+254110367623']
 //-------------
 
 
@@ -77,13 +77,13 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['+254110367623']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['+254110367623']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'ALFABOT' 
    //-------------
    global.author = 'ＡＬＦＡ'
 
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'null'
    
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'null'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'null'
    
    //---------------------------------------------------------------------
 
@@ -148,9 +148,9 @@ global.APIKeys = {
 
    //--------------------- MAIN MENU BUTTON ------------------------
    
-   global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
+   global.mlinktxt1 = 'null'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'null'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -193,31 +193,31 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = ' ＡLFA-TECH'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['+254110367623']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'ＡＬＦＡ B O T' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = 'ALFA BOT'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = 'mwangialfake@gmail.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'null'
 //-------------
-global.github = 'https://github.com/Alien-alfa/' 
+global.github = 'https://github.com/Alfamwas/' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'null' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = 'ALFA-TECH'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = 'ALFA-TECH' 
 //-------------
 global.herokuapi = '' 
 //-------------
